@@ -30,3 +30,8 @@ The AI decision is controlled by an if-else statement:
 - If the number of remaining sticks is 2 or more, the AI removes 2 sticks.
 
 - If only 1 stick remains, the AI removes 1 stick.
+
+# flowchart
+<img width="1304" height="2674" alt="HW02B" src="https://github.com/user-attachments/assets/d6283eb0-b7ff-4ac8-be71-47fa813eccc2" />
+
+
